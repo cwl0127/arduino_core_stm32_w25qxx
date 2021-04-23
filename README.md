@@ -1,0 +1,1 @@
+# arduino_core_stm32_w25qxx
